@@ -5,10 +5,19 @@ Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-m
 
 ## Table of Contents
 
-<!-- MarkdownTOC depth=4 -->
-
 - [Tutorials](#tutorials)
+- [Tools](#Tools)
+  - [Genomics](#Genomics)
+
 
 # Tutorials
 
 - [Introduction to mixed models with R](https://idaejin.github.io/bcam-courses/neiker-2016/material/mixed-models/) by Dae-Jin Lee.
+
+# Tools
+
+## Genomics
+
+Tools developed in Genomics.
+
+- [GridLMM R package](https://github.com/deruncie/GridLMM): [preprint](https://www.biorxiv.org/content/early/2018/07/23/373902)
