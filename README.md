@@ -16,6 +16,9 @@ Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-m
 
 # Tools
 
+- [lme4](https://github.com/lme4/lme4): Mixed-effects models in R
+    - vignette [Computational methods for mixed models (pdf)](https://cran.r-project.org/web/packages/lme4/vignettes/Theory.pdf)
+
 ## Genomics
 
 Tools developed in Genomics.
