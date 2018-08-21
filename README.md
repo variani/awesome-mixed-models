@@ -13,6 +13,7 @@ Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-m
 # Tutorials
 
 - [Introduction to mixed models with R](https://idaejin.github.io/bcam-courses/neiker-2016/material/mixed-models/) by Dae-Jin Lee.
+- [Statistical Modeling and Mixed Models with R](https://github.com/singmann/mixed_model_workshop) by Henrik Singmann
 
 # Tools
 
