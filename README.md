@@ -15,7 +15,7 @@ Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-m
 - [Introduction to mixed models with R](https://idaejin.github.io/bcam-courses/neiker-2016/material/mixed-models/) by Dae-Jin Lee.
 - [Statistical Modeling and Mixed Models with R](https://github.com/singmann/mixed_model_workshop) + [pdf](https://cran.r-project.org/web/packages/afex/vignettes/introduction-mixed-models.pdf) by Henrik Singmann
 - [Workshop exercises on regression, GLMs, mixed-effects models, and GLMMs in R](https://github.com/seananderson/glmm-course) by [Sean Anderson](https://github.com/seananderson)
-
+- Article [A brief introduction to mixed effects modelling and multi-model inference in ecology](https://peerj.com/articles/4794/)
 
 # Tools
 
