@@ -27,3 +27,4 @@ Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-m
 Tools developed in Genomics.
 
 - [GridLMM R package](https://github.com/deruncie/GridLMM): [preprint](https://www.biorxiv.org/content/early/2018/07/23/373902)
+- [Sci-LMM](https://github.com/TalShor/SciLMM), paper [Estimating variance components in population scale family trees](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008124)
